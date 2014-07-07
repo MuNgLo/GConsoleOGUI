@@ -9,5 +9,7 @@ See [GConsole](https://github.com/Rahazan/GConsole).
 * Place the GConsoleOpenGUI folder anywhere in your assets folder.
 
 
-GConsole: https://github.com/Rahazan/GConsole
-OpenGui: https://github.com/mrzapp/opengui
+GConsole: https://github.com/Rahazan/GConsole 
+
+OpenGui: https://github.com/mrzapp/opengui 
+
