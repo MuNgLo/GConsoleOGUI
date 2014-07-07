@@ -43,7 +43,7 @@ public class GConsoleOGUI : MonoBehaviour {
         GConsole.Eval(cmd);
 
         if (clearOnSubmit) {
-						input.text = string.Empty;
+						StartCoroutine(ClearInputNextFrame());
 				}
 
         if (reselectOnSubmit) //Has to be done in next frame for NGUI reasons (quirk in NGUI)..
