@@ -1,3 +1,9 @@
 GConsoleOGUI
 ============
-This prefab only contains the consolepanel. You need to set up the OpenGUI root and page and then place the OGConsolePanel in the page.
+OpenGUI Frontend for GConsole
+See [GConsole](https://github.com/Rahazan/GConsole).
+
+#Setup:
+
+* Make sure OpenGUI is present in your project.
+* Place the GConsoleOpenGUI folder anywhere in your assets folder.
